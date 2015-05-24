@@ -1,6 +1,13 @@
 <room name="pikkuranskis">
 	<description>
-		This is a small classroom.
+		You are now in Pikkuranskis.  You see rows of desks and chairs,
+      	positioned for looking at a blackboard filled with scribbling and
+      	doodles.
+      	Behind the blackboard are two doors, leading into smaller rooms.
+      	A small group of people has reorganized some of the desks to form
+      	a circle.
+      	One of them approaches you, while the rest sit
+      	down in their circle of chairs.
 		<!-- TODO -->
 		You can go northwest, southwest, south or east from here.
 	</description>
