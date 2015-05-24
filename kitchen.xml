@@ -1,0 +1,12 @@
+<room name="labra">
+	<description>
+		This is the kitchen.
+		<!-- TODO -->
+		You can go north from here.
+	</description>
+	<items>
+	</items>
+	<doors>
+		<door file="livingroom.xml" direction="north" locked="0"></door>
+	</doors>
+</room>

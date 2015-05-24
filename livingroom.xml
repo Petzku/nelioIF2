@@ -1,0 +1,13 @@
+<room name="olohuone">
+	<description>
+		This is the living room.
+		<!-- TODO -->
+		You can go south or west from here.
+	</description>
+	<items>
+	</items>
+	<doors>
+		<door file="kitchen.xml" direction="south" locked="0"></door>
+		<door file="printer.xml" direction="west" locked="0"></door>
+	</doors>
+</room>

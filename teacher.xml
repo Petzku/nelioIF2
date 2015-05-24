@@ -1,0 +1,13 @@
+<room name="opettaja">
+	<description>
+		This is the teacher's room.
+		<!-- TODO -->
+		You can go south or east from here.
+	</description>
+	<items>
+	</items>
+	<doors>
+		<door file="storage.xml" direction="east" locked="0"></door>
+		<door file="printer.xml" direction="south" locked="0"></door>
+	</doors>
+</room>

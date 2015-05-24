@@ -7,7 +7,7 @@
 	<items>
 	</items>
 	<doors>
-		<door file="lower_hallway.xml" direction="south" locked="0"></door>
+		<door file="lower_hallway.xml" direction="east" locked="0"></door>
 	</doors>
 	<script file="class.py"></script>
 </room>

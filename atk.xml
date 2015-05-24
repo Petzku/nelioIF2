@@ -1,0 +1,12 @@
+<room name="ATK">
+	<description>
+		This is the computer lab.
+		<!-- TODO -->
+		You can go south from here.
+	</description>
+	<items>
+	</items>
+	<doors>
+		<door file="lower_hallway.xml" direction="south" locked="0"></door>
+	</doors>
+</room>

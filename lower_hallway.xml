@@ -1,7 +1,8 @@
-<room name="käytävä">
+<room name="ala_käytävä">
 	<description>
 		This is a hallway.
-		You can go northwest, northeast, east, west, up or down from here.
+		<!-- TODO -->
+		You can go northwest, north, east, west, up or down from here.
 	</description>
 	<items>
 	</items>

@@ -1,0 +1,12 @@
+<room name="varasto">
+	<description>
+		This is the storage room.
+		<!-- TODO -->
+		You can go north, northeast, east, west, up or down from here.
+	</description>
+	<items>
+	</items>
+	<doors>
+		<door file="teacher.xml" direction="west" locked="0"></door>
+	</doors>
+</room>

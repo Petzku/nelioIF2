@@ -1,6 +1,7 @@
 <room name="labra">
 	<description>
 		This is the laboratory.
+		<!-- TODO -->
 		You can go west from here.
 	</description>
 	<items>
