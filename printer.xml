@@ -1,6 +1,6 @@
 <room name="tulostin">
 	<description>
-		This is the printer room.
+		You are in the printer room. There is a printer here. There is also a bookshelf with lots of books in it.
 		<!-- TODO -->
 		You can go north, northeast, east, west, up or down from here.
 	</description>
