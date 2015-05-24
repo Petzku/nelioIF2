@@ -1,0 +1,15 @@
+<room name="labra">
+	<description>
+		This is the laboratory.
+		You can go west from here.
+	</description>
+	<items>
+		<item name="Sodium chloride"></item>
+		<item name="Sulphuric acid"></item>
+		<item name="Hydrochloric acid"></item>
+		<item name="Fertilizer"></item>
+	</items>
+	<doors>
+		<door file="printer.xml" direction="west" locked="0"></door>
+	</doors>
+</room>

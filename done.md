@@ -4,3 +4,5 @@ Files completed:
 |--------|--------|--------|
 | luokka |        |        |
 |ala_hall|  done  |  N/A   |
+|tulostin| | |
+|ranssila| .. | .. |
