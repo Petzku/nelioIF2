@@ -1,7 +1,12 @@
 <room name="ala_käytävä">
 	<description>
-		You are in a long, wide hallway. You can see out from the large windows on one side, on the other side there are several doors.  In the end of the hallway there is a small, open door. You can see a large bookshelf in the room behind it. In the other end is a shut door with a picture of bananas on it. On that end there are stairs, cold and gray and leading to both upper and lower floors. 
-		<!-- TODO -->
+		You are in a long, wide hallway. You can see out from the large windows
+		on one side, on the other side there are several doors.
+		In the end of the hallway there is a small, open door.
+		You can see a large bookshelf in the room behind it. In the other end is
+		a shut door with a picture of bananas on it. On that end there are
+		stairs, cold and gray and leading to both upper and lower floors.
+
 		You can go northwest, north, east, west, up or down from here.
 	</description>
 	<items>

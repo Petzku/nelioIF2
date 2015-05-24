@@ -1,10 +1,5 @@
 <room name="ATK">
 	<description>
-<<<<<<< HEAD
-		This is a large classroom. On the left there are computers located next to the wall and a small group of people playing video games. There is an admin writing kludgy code intensively. On the right, there are a few students discussing about some mathematical problem in front of a whiteboard. Tandem chess is being played in the middle of class. There is a couple of cookies in a package on the table.
-		<!-- TODO -->
-		You can go south from here.
-=======
 		This is a large classroom. On the left there are computers located next
 		to the wall and a small group of people playing video games. There is an
 		admin writing kludgy code intensively. On the right, there are a few
@@ -13,7 +8,6 @@
 		is a couple of cookies in a package on the table.
 
 		There is a door south of you.
->>>>>>> branch 'master' of https://Github.com/Petzku/nelioIF2
 	</description>
 	<items>
 		<item name="cookie"/>

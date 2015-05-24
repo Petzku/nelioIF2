@@ -1,6 +1,7 @@
 <room name="luokka">
 	<description>
-		You have just entered through the door and find yourself in the classroom. In the dark room, you see four long rows of desks and two sofas. 
+		You have just entered through the door and find yourself in the classroom.
+		In the dark room, you see four long rows of desks and two sofas.
 		<!-- TODO -->
 		You can go south from here.
 	</description>
