@@ -1,0 +1,19 @@
+<room name="tyttöjen_siipi_ala">
+	<description>
+		This is a hallway.
+		<!-- TODO -->
+		You can go northwest, north, northeast, east, west, southeast, southwest or down from here.
+	</description>
+	<items>
+	</items>
+	<doors>
+		<door file="girls_cleaning.xml" direction="north" locked="0"></door>
+		<door file="733.xml" direction="northwest" locked="0"></door>
+		<door file="girls_wing_2.xml" direction="northeast" locked="0"></door>
+		<door file="upper_hallway2.xml" direction="west" locked="0"></door>
+		<door file="girls_shower.xml" direction="southwest" locked="0"></door>
+		<door file="738.xml" direction="east" locked="0"></door>
+		<door file="739.xml" direction="southeast" locked="0"></door>
+		<door file="printer.xml" direction="down" locked="0"></door>
+	</doors>
+</room>

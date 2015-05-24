@@ -9,7 +9,7 @@
 	<doors>
 		<door file="upper_hallway.xml" direction="south" locked="0" />
 		<door file="731A.xml" direction="southwest" locked="1" />
-		<door file="731B.xml" direction="northwest" locked="0" />
+		<door file="731B.xml" direction="northwest" locked="1" /> <!-- unlocks -->
 		<door file="ranskis.xml" direction="east" locked="0" />
 	</doors>
 </room>

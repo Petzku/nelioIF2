@@ -1,6 +1,9 @@
 <room name="ranssila living room">
 	<description>
-		You move to the Ranssila living room. You hear an abnormal noice caused by dozens of emus running around aimlessly. In the room you can also see a fridge, a sofa, a microwave, three tables and a few almost broken chairs. The whole room is a mess probably caused by the emu farm.
+		You move to the Ranssila living room. You hear an abnormal noice caused
+		by dozens of emus running around aimlessly. In the room you can also
+		see a fridge, a sofa, a microwave, three tables and a few almost broken
+		chairs. The whole room is a mess probably caused by the emu farm.
 		<!-- TODO -->
 		You can go north from here.
 	</description>
