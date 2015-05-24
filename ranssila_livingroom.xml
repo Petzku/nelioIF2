@@ -12,5 +12,4 @@
 	<doors>
 		<door file="ranssila.xml" direction="north" locked="0"></door>
 	</doors>
-	<script file="class.py"></script>
 </room>

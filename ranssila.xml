@@ -10,5 +10,4 @@
 		<door file="lower_hallway.xml" direction="east" locked="0"></door>
       	<door file="ranssila_livingroom.xml" direction="south" locked="0"></door>
 	</doors>
-	<script file="class.py"></script>
 </room>
