@@ -7,3 +7,5 @@ Files completed:
 |ATK     |done    |missing |
 |tulostin| | |
 |ranssila| .. | .. |
+|storage |  done  | N/A    |
+|techer  |  done  | N/A    |

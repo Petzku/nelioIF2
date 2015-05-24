@@ -1,8 +1,12 @@
 <room name="opettaja">
 	<description>
-		This is the teacher's room.
-		<!-- TODO -->
-		You can go south or east from here.
+		    You are in the Teachers' room.
+			You see a table at the back of the room and
+			white bookshelves surrounding the room,
+			most of the space is taken by dozens of piles of papers.
+			Lights are on, but one paper stack covers the lamp,
+			making the room shady.
+			Between paper piles on your right side you see a door. 
 	</description>
 	<items>
 	</items>
