@@ -8,7 +8,7 @@
 	</items>
 	<doors>
 		<door file="class.xml" direction="northwest" locked="0"></door>
-		<door file="atk.xml" direction="northeast" locked="0"></door>
+		<door file="atk.xml" direction="north" locked="0"></door>
 		<door file="printer.xml" direction="east" locked="0"></door>
 		<door file="ranssila.xml" direction="west" locked="0"></door>
 		<door file="upper_hallway.xml" direction="up" locked="0"></door>
