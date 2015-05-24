@@ -1,6 +1,11 @@
 <room name="sonffila">
 	<description>
-		This is a small room.
+		You are in a tiny, empty room. There are three doors
+      	leading to different rooms and one open doorway to the corridor.
+      	The lighting is dim, but enough for you to see
+      	"Ministry of Internal affairs" written on one of the doors.
+      	The next one says "Aquarium". The las door seems to be locked.
+      	You can hear the rattling of mahjong tiles in the hallway.
 		<!-- TODO -->
 		You can go north, south, east or west from here.
 	</description>
