@@ -1,13 +1,14 @@
-<room name="luokka">
+<room name="ranssila">
 	<description>
-		This is Ranssila.
+		You have entered Ranssila. You stand in a narrow room  where you can see an open door ahead. You walk through it and enter an undecorated room with two tables covered with piles of clothes and a bed where someone has slept restlessly. The bed's bedsheets are hardly on the bed anymore. There is a sauna stove in a corner.
 		<!-- TODO -->
-		You can go east from here.
+		You can go east and south from here.
 	</description>
 	<items>
 	</items>
 	<doors>
 		<door file="lower_hallway.xml" direction="east" locked="0"></door>
+      	<door file="ranssila_livingroom.xml" direction="south" locked="0"></door>
 	</doors>
 	<script file="class.py"></script>
 </room>
