@@ -1,0 +1,12 @@
+<room name="senso">
+	<description>
+		This is a normal-sized room. It looks as if a bomb blew up here.
+		<!-- TODO -->
+		You can go east from here.
+	</description>
+	<items>
+	</items>
+	<doors>
+		<door file="small_ranskis.xml" direction="east" locked="1" />
+	</doors>
+</room>

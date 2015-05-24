@@ -1,0 +1,22 @@
+<room name="pikkuranskis">
+	<description>
+		You are now in Pikkuranskis.  You see rows of desks and chairs,
+      	positioned for looking at a blackboard filled with scribbling and
+      	doodles.
+      	Behind the blackboard are two doors, leading into smaller rooms.
+      	A small group of people has reorganized some of the desks to form
+      	a circle.
+      	One of them approaches you, while the rest sit
+      	down in their circle of chairs.
+		<!-- TODO -->
+		You can go northwest, southwest, south or east from here.
+	</description>
+	<items>
+	</items>
+	<doors>
+		<door file="upper_hallway.xml" direction="south" locked="0" />
+		<door file="731A.xml" direction="southwest" locked="1" />
+		<door file="731B.xml" direction="northwest" locked="1" /> <!-- unlocks -->
+		<door file="ranskis.xml" direction="east" locked="0" />
+	</doors>
+</room>

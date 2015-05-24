@@ -1,0 +1,23 @@
+<room name="akvaario">
+	<description>
+		You have entered room 730B, also known as the Aquarium.
+      	You can see it's is filled with exotic fishes.
+      	For your great disappointment they are fast asleep,
+      	snoring in a very peculiar formation.
+      	Four of them are lying on the bed and one is curled up in their feet.
+      	Four more form a small pile on the floor.
+      	Their scales shimmer slightly in the dim light coming in
+      	from the door. The carpet looks soft
+      	and you start feeling a little drowsy.
+      	You decide it's better to leave before you too fall asleep.
+      	The idea of sleeping with the fishes does
+      	not seem too tempting right now.
+		<!-- TODO -->
+		You can go east from here.
+	</description>
+	<items>
+	</items>
+	<doors>
+		<door file="sonffila.xml" direction="east" locked="0" />
+	</doors>
+</room>

@@ -1,0 +1,20 @@
+<room name="ranskis">
+	<description>
+		You are now in Ranskis. A circle formed from old sofas, one of them
+      	taped together with duct tape, fills the room.
+      	There are some people playing a board game around large table.
+      	Their heads are bowed in concentration, they are barely breathing.
+      	There are random words scattered across a small blackboard,
+      	followed by squares.
+      	A noisy group is assebling around the sofas,
+      	with a man with a magnificent beard in the center. 
+		<!-- TODO -->
+		You can go west or south from here.
+	</description>
+	<items>
+	</items>
+	<doors>
+		<door file="pikkuranskis.xml" direction="west" locked="0" />
+		<door file="upper_hallway2.xml" direction="south" locked="0" />
+	</doors>
+</room>
