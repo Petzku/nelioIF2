@@ -1,6 +1,7 @@
 <room name="sisäministeriö">
 	<description>
-		This is a small toilet.
+		You have entered the Ministry of Internal Affairs.
+      	You look around the small, dark room. You find a light switch
 		<!-- TODO -->
 		You can go south from here.
 	</description>
