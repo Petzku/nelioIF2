@@ -1,0 +1,12 @@
+<room name="akvaario">
+	<description>
+		This is a small room.
+		<!-- TODO -->
+		You can go east from here.
+	</description>
+	<items>
+	</items>
+	<doors>
+		<door file="sonffila.xml" direction="east" locked="0" />
+	</doors>
+</room>

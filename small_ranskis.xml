@@ -1,0 +1,15 @@
+<room name="pikkuranskis">
+	<description>
+		This is a small classroom.
+		<!-- TODO -->
+		You can go northwest, southwest, south or east from here.
+	</description>
+	<items>
+	</items>
+	<doors>
+		<door file="upper_hallway.xml" direction="south" locked="0" />
+		<door file="731A.xml" direction="southwest" locked="1" />
+		<door file="731B.xml" direction="northwest" locked="0" />
+		<door file="ranskis.xml" direction="east" locked="0" />
+	</doors>
+</room>

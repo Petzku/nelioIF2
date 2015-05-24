@@ -1,0 +1,15 @@
+<room name="sonffila">
+	<description>
+		This is a small room.
+		<!-- TODO -->
+		You can go north, south, east or west from here.
+	</description>
+	<items>
+	</items>
+	<doors>
+		<door file="upper_hallway.xml" direction="east" locked="0" />
+		<door file="730A.xml" direction="south" locked="1" />
+		<door file="730B.xml" direction="west" locked="0" />
+		<door file="ministry.xml" direction="north" locked="0" />
+	</doors>
+</room>

@@ -1,0 +1,15 @@
+<room name="ylä_käytävä_left">
+	<description>
+		This is a hallway.
+		<!-- TODO -->
+		You can go northwest, north, east, west, or down from here.
+	</description>
+	<items>
+	</items>
+	<doors>
+		<door file="small_ranskis.xml" direction="north" locked="0"></door>
+		<!-- east: mahjong -->
+		<door file="sonffila.xml" direction="west" locked="0"></door>
+		<door file="lower_hallway.xml" direction="down" locked="0"></door>
+	</doors>
+</room>
