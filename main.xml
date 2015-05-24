@@ -1,0 +1,13 @@
+<main>
+	<meta author="Neliöt" />
+	<meta created="24.5.2015" />
+	<description>
+		An interactive fiction game about being stuck upstairs finding missing exercises.
+	</description>
+	<settings>
+		<startroom file="luokka.xml"></startroom>
+	</settings>
+	<intro>
+		Neliöt IF - An Upstairs Adventure
+	</intro>
+</main>

@@ -1,0 +1,15 @@
+<room name="luokka">
+	<description>
+		This is a classroom.
+		There are a few sofas and many tables and chairs here.
+		and ... stuff.
+		<!-- TODO -->
+		You can go south from here.
+	</description>
+	<items>
+	</items>
+	<doors>
+		<door file="lower_hallway.xml" direction="south" locked="0"></door>
+	</doors>
+	<script file="class.py"></script>
+</room>

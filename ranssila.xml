@@ -1,0 +1,13 @@
+<room name="luokka">
+	<description>
+		This is Ranssila.
+		<!-- TODO -->
+		You can go east from here.
+	</description>
+	<items>
+	</items>
+	<doors>
+		<door file="lower_hallway.xml" direction="south" locked="0"></door>
+	</doors>
+	<script file="class.py"></script>
+</room>

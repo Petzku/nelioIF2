@@ -1,0 +1,16 @@
+<room name="käytävä">
+	<description>
+		This is a hallway.
+		You can go northwest, northeast, east, west, up or down from here.
+	</description>
+	<items>
+	</items>
+	<doors>
+		<door file="class.xml" direction="northwest" locked="0"></door>
+		<door file="atk.xml" direction="northeast" locked="0"></door>
+		<door file="printer.xml" direction="east" locked="0"></door>
+		<door file="ranssila.xml" direction="west" locked="0"></door>
+		<door file="upper_hallway.xml" direction="up" locked="0"></door>
+		<!-- down: aula, MeS odottaa -->
+	</doors>
+</room>
